@@ -56,23 +56,23 @@ The graphs below shows count of different types of approved vaccinations adminis
 Below you can see all columns from the data set coming from Italy.
 
 
-![image](https://user-images.githubusercontent.com/29782408/121761126-a7710e00-caf3-11eb-9895-f17fab3a7428.png)
+![image](https://user-images.githubusercontent.com/29782408/121761319-a391bb80-caf4-11eb-8096-2034eb88418e.png)
+
 
 
 The graph below shows that number of recovered cases in Italy are also increasing as the cases are rising. So, that is promising.
 
 The second graph shows that the total hospitalization curve is bending even though the cases continue to rise. This graph also shows that cases in the Molise region are rising at a much higher rate compared to other regions in Italy.
 
-![image](https://user-images.githubusercontent.com/29782408/121760948-f4081980-caf2-11eb-8f3a-eda0cf553383.png)
-![image](https://user-images.githubusercontent.com/29782408/121760951-f79ba080-caf2-11eb-93a9-30e55da00a1c.png)
+![image](https://user-images.githubusercontent.com/29782408/121761366-f3708280-caf4-11eb-83a7-6f23622b7f80.png)
+![image](https://user-images.githubusercontent.com/29782408/121761379-ff5c4480-caf4-11eb-8a24-86965564ac34.png)
 
 
 The graphs below show that the home confinements curve is also bending in comparison to the total positive cases. The graph also shows that people in Molise region have more people in quarantine in comparison to other regions. 
 
 The deaths are also rising at a rapid speed with increase in total positive cases. Morbidity is very high in the Molise region in comparison to other regions.
 
-
-![image](https://user-images.githubusercontent.com/29782408/121760969-071ae980-caf3-11eb-9cd0-9e306b61d7f2.png)
-![image](https://user-images.githubusercontent.com/29782408/121760975-0bdf9d80-caf3-11eb-9f52-783534a0684d.png)
+![image](https://user-images.githubusercontent.com/29782408/121761353-d89e0e00-caf4-11eb-8092-152609baf17c.png)
+![image](https://user-images.githubusercontent.com/29782408/121761358-dd62c200-caf4-11eb-8b24-4867ad44f1ac.png)
 
 
