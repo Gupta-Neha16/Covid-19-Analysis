@@ -22,7 +22,7 @@ India Covid Analysis
 Below you can see all columns from the data set from India.
 
 ![image](https://user-images.githubusercontent.com/29782408/121761216-22d2bf80-caf4-11eb-8079-32f4644cdc0d.png)
-<img src = "https://user-images.githubusercontent.com/29782408/121761216-22d2bf80-caf4-11eb-8079-32f4644cdc0d.png" width = "100">
+<a href = "url"><img src ="https://user-images.githubusercontent.com/29782408/121761216-22d2bf80-caf4-11eb-8079-32f4644cdc0d.png" align ="left" heigh ="48" width ="48"></a>
 
 
 The graph below shows that the death rate in the state of Maharashtra is much higher compared to other states. However, the graph also shows that more people are recovering from the disease.
