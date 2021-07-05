@@ -61,11 +61,9 @@ Below you can see all columns from the data set coming from Italy.
 
 
 
-The graph below shows that number of recovered cases in Italy are also increasing as the cases are rising. So, that is promising.
+The graph below shows that the total hospitalization curve is bending even though the cases continue to rise. This graph also shows that cases in the Molise region are rising at a much higher rate compared to other regions in Italy.
 
-The second graph shows that the total hospitalization curve is bending even though the cases continue to rise. This graph also shows that cases in the Molise region are rising at a much higher rate compared to other regions in Italy.
 
-![image](https://user-images.githubusercontent.com/29782408/121761366-f3708280-caf4-11eb-83a7-6f23622b7f80.png)
 ![image](https://user-images.githubusercontent.com/29782408/121761379-ff5c4480-caf4-11eb-8a24-86965564ac34.png)
 
 
